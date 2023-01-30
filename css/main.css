@@ -24,7 +24,7 @@ img {
 /* || GENERAL */
 body {
     background-color: hsl(225, 100%, 94%);
-    background-image: url("/images/pattern-background-mobile.svg");
+    background-image: url("../images/pattern-background-mobile.svg");
     background-size: 100% 50%;
     background-repeat: no-repeat;
     min-height: 100vh;
@@ -125,7 +125,7 @@ body {
 /* desktop */
 @media screen and (min-width: 576px) {
     body {
-        background-image: url("/images/pattern-background-desktop.svg");
+        background-image: url("../images/pattern-background-desktop.svg");
     }
 
     .main {
